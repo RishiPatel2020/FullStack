@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a4a9ca1f.css",
-    "main.js": "/static/js/main.ec947ace.js",
+    "main.js": "/static/js/main.f21dffa3.js",
     "static/js/496.b7096a07.chunk.js": "/static/js/496.b7096a07.chunk.js",
     "static/media/noHistory.png": "/static/media/noHistory.4c3a724200d75503ab2f.png",
     "static/media/pavbhaji.png": "/static/media/pavbhaji.c9e0198637100f35fa89.png",
@@ -10,7 +10,12 @@
     "static/media/newBackground.png": "/static/media/newBackground.205faf319bd151ddaec9.png",
     "static/media/customers.png": "/static/media/customers.fd128c736d97eab3a55b.png",
     "static/media/satisfiction.png": "/static/media/satisfiction.6c1c267191b8b75da7c9.png",
+    "static/media/Chana Masala.jpg": "/static/media/Chana Masala.4ac61cf7e16a1f39363b.jpg",
     "static/media/biryani.png": "/static/media/biryani.6a5323d4670c9d9bc292.png",
+    "static/media/Aloo Gobi.jpg": "/static/media/Aloo Gobi.79a57a6b854793af390f.jpg",
+    "static/media/New Paneer Tika.jpg": "/static/media/New Paneer Tika.cf4967b38e66526f48ae.jpg",
+    "static/media/Bindi Masala.jpg": "/static/media/Bindi Masala.6929dd9dcc2027eebae5.jpg",
+    "static/media/Palak Paneer.jpg": "/static/media/Palak Paneer.1eb304a7c1bb8c5aef1b.jpg",
     "static/media/kitchen.png": "/static/media/kitchen.0165d4bd74a2f60f3ef1.png",
     "static/media/zipImage1.png": "/static/media/zipImage1.f89d65bbe31bdc074673.png",
     "static/media/puzzle1.png": "/static/media/puzzle1.b62e86687eece9bc9d9d.png",
@@ -44,11 +49,11 @@
     "static/media/logo192.png": "/static/media/logo192.af530f4985d1db71d65d.png",
     "index.html": "/index.html",
     "main.a4a9ca1f.css.map": "/static/css/main.a4a9ca1f.css.map",
-    "main.ec947ace.js.map": "/static/js/main.ec947ace.js.map",
+    "main.f21dffa3.js.map": "/static/js/main.f21dffa3.js.map",
     "496.b7096a07.chunk.js.map": "/static/js/496.b7096a07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4a9ca1f.css",
-    "static/js/main.ec947ace.js"
+    "static/js/main.f21dffa3.js"
   ]
 }
